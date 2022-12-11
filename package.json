@@ -18,7 +18,7 @@
     "moleculer-repl": "^0.5.7"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "moleculer": "^0.13.9",
     "moleculer-db": "^0.8.4",
     "moleculer-db-adapter-mongoose": "^0.8.3",
